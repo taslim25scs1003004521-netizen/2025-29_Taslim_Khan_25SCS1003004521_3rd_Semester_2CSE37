@@ -13,7 +13,7 @@ Session: 2025-29
 
 Organization: CodeAlpha  
 Job Profile: Frontend Development Intern  
-Internship Duration: 1 August 2026 – 30 JAugust 2026  
+Internship Duration: 1 August 2026 – 30 August 2026  
 
 ## About the Internship
 
